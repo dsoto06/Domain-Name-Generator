@@ -13,3 +13,5 @@ return pronoun[random1] + adj[random2] + noun[random3] + ".com"
 };
 
 console.log(namegenerator());
+
+// Write [node app.js] on the console to see the result
