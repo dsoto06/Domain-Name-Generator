@@ -1,7 +1,7 @@
 let pronoun = ['the', 'our'];
-let adj = ['great', 'big'];
+let adj = ['great', 'big', 'colossal'];
 let noun = ['jogger', 'racoon'];
-let domain = [".com", ".es", ".net", ".us", ".io"]
+let domain = [".com", ".es", ".net", ".org", ".info"]
 
 for (let p = 0; p < pronoun.length; p++){
 
